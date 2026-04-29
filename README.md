@@ -1,6 +1,6 @@
 <div align="center" width="50">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Hello+World!+%F0%9F%91%8B;Welcome+to+my+profile!;I'm+Bdzanoir+%F0%9F%8E%93;Java+%26+OOP+Enthusiast+%E2%98%95" alt="Typing SVG" /> <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Bdzanoir!;CS+Student+%F0%9F%8E%93;Java+%26+OOP+Enthusiast+%E2%98%95" alt="Typing SVG" /> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=bdzanoir-art&style=flat&color=orange&label=PROFILE+VIEWS)
