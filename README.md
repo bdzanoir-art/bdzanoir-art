@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm  bouzidi anoir </h1>
 <h3 align="center">Computer Science Student | Java & OOP Enthusiast</h3>
 
 ---
@@ -8,7 +8,7 @@
 - 🔭 Currently working on **Java OOP Projects**
 - 🌱 Learning **Data Structures & Algorithms**
 - 💡 Interested in **Backend Development**
-- 📫 Reach me at: **your@email.com**
+- 📫 Reach me at: bdzanoir@gmail.com
 
 ---
 
