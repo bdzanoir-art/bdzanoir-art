@@ -1,6 +1,6 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Bdzanoir!;CS+Student+%F0%9F%8E%93;Java+%26+OOP+Enthusiast+%E2%98%95" alt="Typing SVG" /> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=bdzanoir-art&style=flat&color=orange&label=PROFILE+VIEWS)
@@ -14,8 +14,6 @@
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
@@ -28,7 +26,7 @@
 
 class About extends Me {
   const myInfo = {
-    "ProgrammingLanguages" : { "Java", "Python", "C", "C++" },
+    "ProgrammingLanguages" : { "Java", "Python" },
     "OtherLanguages"       : { "HTML", "CSS", "Markdown" },
     "Editors"              : { "VSCode" },
     "Platforms"            : { "Windows", "GNU/Linux" },
@@ -50,7 +48,7 @@ class About extends Me {
 <details>
   <summary>More stats</summary>
 
-<img align="center" src="https://streak-stats.demolab.com?user=bdzanoir-art&theme=nord&hide_border=true" >
+<img align="center" src="https://streak-stats.demolab.com?user=bdzanoir-art&theme=nord&hide_border=true">
 
 </details>
 
